@@ -1,4 +1,4 @@
-# Death Stranding Style TUFXs For KSP
+# Death Stranding Style TUFX Profiles For KSP
 
 **This is a custom TUFX profile for Kerbal Space Program, inspired by the haunting atmosphere and cinematic visuals of Death Stranding.**
 
