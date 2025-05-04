@@ -4,7 +4,7 @@
 
 Video: https://youtu.be/d49b_XRJzfc
 
-**v1 and v3 provide two different preferences.**
+**v1 and v3 provide two different preferences. v1 tends to restore the dark atmosphere, and v3 is optimized for normal use.**
 
 ![Config](https://github.com/user-attachments/assets/de78b6af-e2eb-40a6-a1e9-7e11cedab92d)
 
